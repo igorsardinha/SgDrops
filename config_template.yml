@@ -1,0 +1,6 @@
+MySQL:
+  Ativado: false
+  Usuario: user
+  Host: host
+  Database: banco
+  Senha: senha

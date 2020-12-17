@@ -1,0 +1,36 @@
+name: SgDrops
+version: 3.0
+main: br.com.sgcraft.drops.Main
+author: Sardinhagamer_HD
+
+commands:
+   verdrops:
+     description: Mostra a lista de caixas.
+     aliases: []
+     permission: sgcraft.drops
+     permission-message: "§cVocê não tem permissão para utilizar este comando."
+   criardrop:
+     description: Cria uma caixa.
+     aliases: []
+     permission: sgcraft.drops
+     permission-message: "§cVocê não tem permissão para utilizar este comando."
+   deldrop:
+     description: Deleta uma caixa criada.
+     aliases: []
+     permission: sgcraft.drops
+     permission-message: "§cVocê não tem permissão para utilizar este comando."
+   editardrop:
+     description: Edita uma caixa criada.
+     aliases: []
+     permission: sgcraft.drops
+     permission-message: "§cVocê não tem permissão para utilizar este comando."
+   givedrop:
+     description: Pega uma caixa.
+     aliases: []
+     permission: sgcraft.drops
+     permission-message: "§cVocê não tem permissão para utilizar este comando."
+   pegardrop:
+     description: Pega um drop Perdido.
+     aliases: []
+     permission-message: "§cVocê não tem permissão para utilizar este comando."
+   sgdrops:
